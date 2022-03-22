@@ -8,19 +8,19 @@ The purpose of this document is to provide a framework to review your work and t
 
 
 * Don’t be rude just to be rude, we’re all here for one goal
-* Explain reasoning of why it needs to be improved
+* Explain clear reasoning of why it needs to be improved
 * If you have a better approach feel free to suggest that instead
 * Include a positive point for every negative: this helps motivation and may also help people where they need to learn more or where their strengths are
 
 
 **Before starting the PR**
 
-1. Make sure all code is documented according to standards (when it exists), or at least similarly to other files lol
+1. Make sure all code is documented according to standards (when it exists), or at least similarly to other files
 2. Make sure all changes that can be applied to prefabs, are applied to prefabs.
 3. If adding something new to the scene, either add it to an existing prefab, or make one for it.
 4. When making a new one that has to be added, make note of the need to add it, and any requirements for it, to the PR description
 5. Make sure the game runs, and no new errors are introduced.
-6. Make sure you're not accidentally updating some random meta files ... feel free to ping peoples if unsure if something is needed.
+6. Make sure you're not accidentally updating some random meta files, feel free to ping peoples if unsure if something is needed.
 7. **Remember to clock your hours!**
 
 
