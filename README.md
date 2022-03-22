@@ -21,7 +21,7 @@ The purpose of this document is to provide a framework to review your work and t
 4. When making a new one that has to be added, make note of the need to add it, and any requirements for it, to the PR description
 5. Make sure the game runs, and no new errors are introduced.
 6. Make sure you're not accidentally updating some random meta files ... feel free to ping peoples if unsure if something is needed.
-**7. Remember to clock your hours!**
+7. **Remember to clock your hours!**
 
 
 **Programming Review Checklist:**
