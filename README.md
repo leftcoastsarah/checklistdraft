@@ -1,4 +1,4 @@
-# checklist draft
+# Checklist Draft
 Draft for checklist for programming review
 
 The purpose of this document is to provide a framework to review your work and the work of others. It is a liveable document that may change depending on timeframes, needs, changes in technology, or changes in overall goals.
