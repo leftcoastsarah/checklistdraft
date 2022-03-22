@@ -29,12 +29,12 @@ The purpose of this document is to provide a framework to review your work and t
 1. If there isn't anything strange in the prefabs or or code, go ahead and test locally
 2. Does the code have conflicts?
     *  Yes:
-            * what kind of conflicts?
-            * Can I resolve it myself? If not message the creator of the PR saying they need to update it, and add the label NEEDS REVISION
+           * what kind of conflicts?
+           * Can I resolve it myself? If not message the creator of the PR saying they need to update it, and add the label NEEDS REVISION
     * No conflicts:
-            * any comments on the PR? have those been addressed?
-            * No comments: DM to see if the person is online, ask of the status
-            * Comments addressed: continue with the review
+           * any comments on the PR? have those been addressed?
+           * No comments: DM to see if the person is online, ask of the status
+           * Comments addressed: continue with the review
 3. Look at the description 
     * Is there detail on what was changed and why?
 4. Look at the files changes
