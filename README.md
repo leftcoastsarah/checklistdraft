@@ -27,14 +27,14 @@ Code Reviewing for others:
 
 1. If there isn't anything strange in the prefabs or or code, test locally
 1. Does the code have conflicts?
-    1  . Yes:
+    1.  Yes:
      1. what kind of conflicts?
       2. Can I resolve it myself? If not message the creator of the PR saying they need to update it, and add the label NEEDS REVISION
-    2. No:
+    2. No conflicts:
       1. any comments on the PR? have those been addressed?
         1. No comments: DM to see if the person is online, ask of the status
         2. Comments addressed: continue with the review
-3. Look at the description
+3. Look at the description 
     1. Is there detail on what was changed and why?
 4. Look at the files changes
     1. Skim for coding that doesn't meet the coding format or documentation standards
@@ -44,8 +44,8 @@ Code Reviewing for others:
     5. Make sure to document all issues, and make sure documentation also meets documentation standards
     6. If there's any png or image files uploaded, make sure they're not huge (the standard will tell you how big)
     7. Test locally before submitting the review
-
-4. Submit the review with a general overview/summary of major changes in the PR
+5. If any issues submit the review with a general overview/summary of major changes in the PR
+6. No issues? Just merge it
 
 
 
