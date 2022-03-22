@@ -1,9 +1,9 @@
-# checklistdraft
+# checklist draft
 Draft for checklist for programming review
 
 The purpose of this document is to provide a framework to review your work and the work of others. It is a liveable document that may change depending on timeframes, needs, changes in technology, or changes in overall goals.
 
-Code Reviewing for others:
+**Code Reviewing for others:**
 
 
 
@@ -12,8 +12,8 @@ Code Reviewing for others:
 * If you have a better approach feel free to suggest that instead
 * Include a positive point for every negative: this helps motivation and may also help people where they need to learn more or where their strengths are
 
-
-* Before starting the PR
+**
+* Before starting the PR**
 
 1. Make sure all code is documented according to standards (when it exists), or at least similarly to other files lol
 2. Make sure all changes that can be applied to prefabs, are applied to prefabs.
@@ -21,8 +21,8 @@ Code Reviewing for others:
   - when making a new one that has to be added, make note of the need to add it, and any requirements for it, to the PR description
 4. Make sure the game runs, and no new errors are introduced.
 5. Make sure you're not accidentally updating some random meta files ... feel free to ping peoples if unsure if something is needed.
-
-* Programming Review Checklist:
+**
+* Programming Review Checklist:**
 
 
 1. If there isn't anything strange in the prefabs or or code, test locally
