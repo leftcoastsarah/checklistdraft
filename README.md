@@ -38,12 +38,12 @@ The purpose of this document is to provide a framework to review your work and t
 3. Look at the description 
     * Is there detail on what was changed and why?
 4. Look at the files changes
-    * Skim for coding that doesn't meet the coding format or documentation standards
+    * Skim for coding that doesn't meet the coding format or documentation standards (these are in the root repo)
     * Skim the prefab .meta files, to see if anything looks "fishy" (this comes with experience, feel free to reach out for help)
     * Look at the prefab/file names to make sure they make sense (currently no standard for it)
-    * If something stands out start a git review: click the plus that's next to the line number of the issue, and starting a review by adding comments
-    * Make sure to document all issues, and make sure documentation also meets documentation standards
-    * If there's any png or image files uploaded, make sure they're not huge (the standard will tell you how big)
+    * If something stands out, start a git review: click the plus that's next to the line number of the issue, and start a review by adding comments
+    * Make sure to document all issues, make sure documentation also meets documentation standards
+    * If there's any png or image files uploaded, make sure they're not huge (the standard will tell you maximum size)
     * Test locally before submitting the review
 5. If any issues come up submit the review with a general overview/summary of major changes in the PR
 6. No issues at all? Just merge it
