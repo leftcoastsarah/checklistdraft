@@ -16,12 +16,13 @@ The purpose of this document is to provide a framework to review your work and t
 **Before starting the PR**
 
 1. Make sure all code is documented according to standards (when it exists), or at least similarly to other files
-2. Make sure all changes that can be applied to prefabs, are applied to prefabs.
-3. If adding something new to the scene, either add it to an existing prefab, or make one for it.
-4. When making a new one that has to be added, make note of the need to add it, and any requirements for it, to the PR description
-5. Make sure the game runs, and no new errors are introduced.
-6. Make sure you're not accidentally updating some random meta files, feel free to ping peoples if unsure if something is needed.
-7. **Remember to clock your hours!**
+2. If you have a question don't hesitate to reach out to others, Scrum meetings are a reliable time to ping others
+3. Make sure all changes that can be applied to prefabs, are applied to prefabs.
+4. If adding something new to the scene, either add it to an existing prefab, or make one for it.
+5. When making a new one that has to be added, make note of the need to add it, and any requirements for it, to the PR description
+6. Make sure the game runs, and no new errors are introduced.
+7. Make sure you're not accidentally updating some random meta files, feel free to ping peoples if unsure if something is needed.
+8. **Remember to clock your hours!**
 
 
 **Programming Review Checklist:**
